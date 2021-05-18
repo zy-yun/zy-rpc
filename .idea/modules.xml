@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rpc-order-service/order-api/order-api.iml" filepath="$PROJECT_DIR$/rpc-order-service/order-api/order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-order-service/order-provider/order-provider.iml" filepath="$PROJECT_DIR$/rpc-order-service/order-provider/order-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-order-service/rpc-order-service.iml" filepath="$PROJECT_DIR$/rpc-order-service/rpc-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zy-rpc.iml" filepath="$PROJECT_DIR$/.idea/zy-rpc.iml" />
+    </modules>
+  </component>
+</project>
