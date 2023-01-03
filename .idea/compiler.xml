@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="order-api" target="1.7" />
-      <module name="order-provider" target="1.7" />
-      <module name="rpc-order-service" target="1.7" />
+      <module name="order-api" target="11" />
+      <module name="order-provider" target="11" />
+      <module name="rpc-order-service" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
